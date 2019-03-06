@@ -1,0 +1,42 @@
+div {
+    padding: 5px;
+    border: 1px solid salmon;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: '#777';
+    background: '#777';
+    width: '960px';
+    font-size: '18px';
+}
+
+header nav section aside footer {
+        background: '#ebebeb'
+}
+
+article {
+    color: '#ebebeb';
+    background: '#777'    
+} 
+
+h1 p {
+    color: '#777';
+    background: '#ebebeb'
+}
+
+section {
+    width: 495px;
+}
+
+/* the styling below is my work */
+
+header {
+    padding: 20px;
+    /* text-align: center; */
+}
+
+h3 {
+    text-align: center;
+}
+
